@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_COF_1.2.PcbDoc   4/7/2023  9:58:18 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_COF_1.2.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      12mil (0.3mm)                                             Round             366       PTH        39.15inch (994.46mm)
+T3      25mil (0.635mm)                                           Round             11        PTH        5.80inch (147.38mm)
+T4      32mil (0.8mm)                                             Round             8         PTH        1.41inch (35.69mm)
+T5      35mil (0.889mm)                                           Round             5         PTH        0.40inch (10.16mm)
+T6      39mil (1.001mm)                                           Round             46        PTH        10.88inch (276.25mm)
+T7      43mil (1.1mm)                                             Round             6         PTH        2.42inch (61.47mm)
+T8      118mil (3mm)                                              Round             4         PTH        9.28inch (235.71mm)
+T1      39mil (1.001mm)                                           Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              447
+
+Total Processing Time (hh:mm:ss) : 00:00:00

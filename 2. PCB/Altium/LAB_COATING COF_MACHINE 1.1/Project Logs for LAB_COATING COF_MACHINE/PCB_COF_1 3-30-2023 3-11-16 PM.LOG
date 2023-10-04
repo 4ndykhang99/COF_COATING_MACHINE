@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C12 Old Footprint=CAPC1005X55N New Footprint=C 0402
+Change component parameters (AddParameter): Name = ""; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog"; Value = "CC0402JRNPO9BN560"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog"; Value = "CC0402JRNPO9BN560"; VariantName = "[No Variations]"

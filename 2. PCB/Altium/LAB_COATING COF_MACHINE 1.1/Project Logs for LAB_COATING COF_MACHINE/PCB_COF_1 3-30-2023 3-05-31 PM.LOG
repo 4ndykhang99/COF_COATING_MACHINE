@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=Button_3 Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=Button_2 Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=Button_1 Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Change Component Footprint: Designator=C5 Old Footprint=CAPC1608X95N New Footprint=C 0603
+Change Component Footprint: Designator=C6 Old Footprint=CAPC1608X95N New Footprint=C 0603
+Change Component Footprint: Designator=C7 Old Footprint=CAPC1608X95N New Footprint=C 0603
+Change Component Footprint: Designator=C8 Old Footprint=CAPC1608X95N New Footprint=C 0603
+Change Component Footprint: Designator=C9 Old Footprint=CAPC1608X95N New Footprint=C 0603
+Change component parameters (AddParameter): Name = ""; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog"; Value = "C0603C104K8RACTU_1K"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog"; Value = "C0603C104K8RACTU_1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=Button_3 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=Button_2 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=Button_1 Pin=C8-2
+Added Member To Class: ClassName=Sche_Voltage regulator Member=Component C9 0.1uF
+Added Room: Name=Sche_MCU_IO
+Added Room: Name=Sche_PheriperalSchDoc
+Added Room: Name=Sche_Voltage regulator

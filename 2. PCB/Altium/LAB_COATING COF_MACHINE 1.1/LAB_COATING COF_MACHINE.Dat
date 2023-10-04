@@ -1,0 +1,27 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~LAB_COATING COF_MACHINE.PrjPcb|ReportField=ProjectFullPath~D:\5. Project\LAB_COATING_COF\2. PCB\Altium\LAB_COATING COF_MACHINE 1.1\LAB_COATING COF_MACHINE.PrjPcb|ReportField=Title~Bill of Materials For Project [LAB_COATING COF_MACHINE.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~59|ReportField=ReportTime~8:57:13 AM|ReportField=ReportDate~5/9/2023|ReportField=ReportDateTime~5/9/2023 8:57:13 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~5/9/2023|ReportField=CurrentTime~8:50:00 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\5. Project\LAB_COATING_COF\2. PCB\Altium\LAB_COATING COF_MACHINE 1.1\Sche_MCU_IO.SchDoc|ReportField=DocumentName~Sche_MCU_IO.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~4/26/2023|ReportField=Organization~|ReportField=ProjectName~LAB_COATING COF_MACHINE.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~LAB_COATING COF_MACHINE.PrjPcb|ReportField=DataSourceFullPath~D:\5. Project\LAB_COATING_COF\2. PCB\Altium\LAB_COATING COF_MACHINE 1.1\LAB_COATING COF_MACHINE.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|22uF|CAP CER 22UF 6.3V X5R 0603|C1, C2, C3, C4, C13, C14|C 0603|CAP CER 22UF 6.3V X5R 0603 - GRM188R60J226MEA0D|6
+2|0.1uF|Multilayer Ceramic Capacitors MLCC - SMD/SMT|C5, C6, C7, C8, C15|CAPC1608X95N|CAP CER 0.1UF 10V X7R 0603 - C0603C104K8RACTU|5
+3|0.1uF|CAP CER 0.1UF 50V X7R 0603|C9, C11|C 0603|CAP CER 0.1UF 50V X7R 0603 - ESD35C104K4T2A-24|2
+4|10uF|CAP CER 10UF 50V Y5V 1210|C10|CAPC3225X290N|CAP CER 10UF 50V Y5V 1210 - 12105G106ZAT2A|1
+5|56pF|CAP CER 56PF 50V C0G/NPO 0402|C12|CAPC1005X55N|CAP CER 56PF 50V C0G/NPO 0402 - CC0402JRNPO9BN560|1
+6|BAT54S|DIODE SCHOTTKY 30V 150MA SOT23|D1, D2, D3, D4|SOT95P240X120-3N|DIODE SCHOTTKY 30V 150MA SOT23  - BAT54S|4
+7|Pulse|Cắm|H1, H3|Header 2P DC 2.54|Header 2P 2.54 Duc Cong|2
+8|HEADER_UART_MODULE|Cắm|H2, H6|XH2.54M-4|Header 4P 2.54 Duc Thang|2
+9|Button_1-4|Cắm|H4|Header 5P DC 2.54|Header 5P 2.54 Duc Cong|1
+10|Limit_SW_1-2|Cắm|H5|Header 3P DC 2.54|Header 3P 2.54 Duc Cong|1
+11|4.7uF|FIXED IND 4.7UH 5.5A 40 MOHM SMD|L1|INDM6965X300N|IND 4.7UH 5.5A 40 MOHM SMD - IHLP2525CZER4R7M01|1
+12|TERM BLK 2P SIDE ENT 5.08MM PCB - 282837-2|TERM BLK 2P SIDE ENT 5.08MM PCB|P1|TE_282837-2|TERM BLK 2P SIDE ENT 5.08MM PCB - 282837-2|1
+13|282837-2|Connector Terminal Blocks Receptacle 2 Position 5.08mm Solder Straight Thru-Hole 13.5A/Contact|P2, P3|TE_282837-2|282837-2|2
+14|TRANS NPN 45V 0.8A SOT23-3 - BCW66GLT1G|TRANS NPN 45V 0.8A SOT23-3|Q1, Q2|SOT95P237X111-3N|TRANS NPN 45V 0.8A SOT23-3 - BCW66GLT1G|2
+15|2.2K|RES SMD 2.2K OHM 5% 1/2W 0805|R1, R5, R13, R14, R15, R16|RES 0805|RES SMD 2.2K OHM 5% 1/2W 0805 - ERJ-P06J222V|6
+16|100K|RES SMD 100K OHM 1% 1/10W 0603|R2, R6|Res 0603|RES SMD 100K OHM 1% 1/10W 0603 - CRCW0603100KFKEA|2
+17|1K|RES SMD 1K OHM 5% 1/10W 0603|R3, R9|ERJ3EKF1000V|RES SMD 1K OHM 5% 1/10W 0603 - ERJ-3GEYJ102V|2
+18|10K|RES SMD 10K OHM 5% 1/10W 0603|R4, R11|ERJ3EKF1000V|RES SMD 10K OHM 5% 1/10W 0603 - ERJ3GEYJ103V|2
+19|4.7k|RES 4.7K OHM 1% 1/10W 0603|R7, R8, R10, R12, R19, R20|Res 0603|RES 4.7K OHM 1% 1/10W 0603 - RC0603FR-074K7L|6
+20|9k1|RES SMD 9.1K OHM 1% 1/10W 0603|R17, R18|Res 0603|RES SMD 9.1K OHM 1% 1/10W 0603 - ERJ-3EKF9101V|2
+21|100k|RES SMD 100K OHM 1% 1/10W 0402|R21, R22|ERJ2RKD1004X|RES SMD 100K OHM 1% 1/10W 0402 - ERJ2RKF1003X|2
+22|93.1k|RES 93.1K OHM 1% 1/16W 0402|R23|RESC1005X40N|RES 93.1K OHM 1% 1/16W 0402 - RC0402FR-0793K1L|1
+23|30.1k|RES SMD 30.1K OHM 1% 1/10W 0402|R24|ERJ2RKD1004X|RES SMD 30.1K OHM 1% 1/10W 0402 - ERJ-2RKF3012X|1
+24|MODULE STM32F103C8T6 - ZC323000|MODULE STM32F103C8T6|U1|MODULE_ZC323000|MODULE STM32F103C8T6 - ZC323000|1
+25|OPTOISOLATOR 5KV TRANS 4SMD - PC817X2NIP0F|Optoisolator Transistor Output 5000Vrms 1 Channel 4-SMD|U2, U3|SOT254P975X400-4N|OPTOISOLATOR 5KV TRANS 4SMD - PC817X2NIP0F|2
+26|IC REG BUCK ADJUSTABLE 2A TSOT26 - AP63300WU-7|IC REG BUCK ADJUSTABLE 2A TSOT26|U4|SOT95P280X100-6N|IC REG BUCK ADJUSTABLE 2A TSOT26 - AP63300WU-7|1

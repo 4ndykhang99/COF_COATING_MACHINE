@@ -1,0 +1,324 @@
+Change Component DesignItemId : Designator=U4 Old DesignItemId=AP63300WU-7 New DesignItemId=IC REG BUCK ADJUSTABLE 2A TSOT26 - AP63300WU-7
+Change Component DesignItemId : Designator=D1 Old DesignItemId=BAT54S New DesignItemId=DIODE SCHOTTKY 30V 150MA SOT23  - BAT54S
+Change Component DesignItemId : Designator=D2 Old DesignItemId=BAT54S New DesignItemId=DIODE SCHOTTKY 30V 150MA SOT23  - BAT54S
+Change Component DesignItemId : Designator=D3 Old DesignItemId=BAT54S New DesignItemId=DIODE SCHOTTKY 30V 150MA SOT23  - BAT54S
+Change Component DesignItemId : Designator=D4 Old DesignItemId=BAT54S New DesignItemId=DIODE SCHOTTKY 30V 150MA SOT23  - BAT54S
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=BCW66GLT1G New DesignItemId=TRANS NPN 45V 0.8A SOT23-3 - BCW66GLT1G
+Change Component DesignItemId : Designator=Q2 Old DesignItemId=BCW66GLT1G New DesignItemId=TRANS NPN 45V 0.8A SOT23-3 - BCW66GLT1G
+Change Component DesignItemId : Designator=C5 Old DesignItemId=CAP CER 0.1UF 10V X7R 0603 New DesignItemId=CAP CER 0.1UF 10V X7R 0603 - C0603C104K8RACTU
+Change Component DesignItemId : Designator=C6 Old DesignItemId=CAP CER 0.1UF 10V X7R 0603 New DesignItemId=CAP CER 0.1UF 10V X7R 0603 - C0603C104K8RACTU
+Change Component DesignItemId : Designator=C7 Old DesignItemId=CAP CER 0.1UF 10V X7R 0603 New DesignItemId=CAP CER 0.1UF 10V X7R 0603 - C0603C104K8RACTU
+Change Component DesignItemId : Designator=C8 Old DesignItemId=CAP CER 0.1UF 10V X7R 0603 New DesignItemId=CAP CER 0.1UF 10V X7R 0603 - C0603C104K8RACTU
+Change Component DesignItemId : Designator=C15 Old DesignItemId=CAP CER 0.1UF 10V X7R 0603 New DesignItemId=CAP CER 0.1UF 10V X7R 0603 - C0603C104K8RACTU
+Change Component DesignItemId : Designator=C9 Old DesignItemId=CAP CER 0.1UF 10V X7R 0603 - C0603C104K8RACTU New DesignItemId=CAP CER 0.1UF 50V X7R 0603 - ESD35C104K4T2A-24
+Change Component DesignItemId : Designator=C11 Old DesignItemId=CAP CER 0.1UF 10V X7R 0603 - C0603C104K8RACTU New DesignItemId=CAP CER 0.1UF 50V X7R 0603 - ESD35C104K4T2A-24
+Change Component DesignItemId : Designator=C13 Old DesignItemId=CAP CER 22UF 6.3V X5R 0603 New DesignItemId=CAP CER 22UF 6.3V X5R 0603 - GRM188R60J226MEA0D
+Change Component DesignItemId : Designator=C14 Old DesignItemId=CAP CER 22UF 6.3V X5R 0603 New DesignItemId=CAP CER 22UF 6.3V X5R 0603 - GRM188R60J226MEA0D
+Change Component DesignItemId : Designator=C12 Old DesignItemId=CAP CER 56PF 50V C0G/NPO 0402 New DesignItemId=CAP CER 56PF 50V C0G/NPO 0402 - CC0402JRNPO9BN560
+Change Component DesignItemId : Designator=R21 Old DesignItemId=ERJ2RKF1003X New DesignItemId=RES SMD 100K OHM 1% 1/10W 0402 - ERJ2RKF1003X
+Change Component DesignItemId : Designator=R22 Old DesignItemId=ERJ2RKF1003X New DesignItemId=RES SMD 100K OHM 1% 1/10W 0402 - ERJ2RKF1003X
+Change Component DesignItemId : Designator=R4 Old DesignItemId=ERJ3GEYJ103V New DesignItemId=RES SMD 10K OHM 5% 1/10W 0603 - ERJ3GEYJ103V
+Change Component DesignItemId : Designator=R11 Old DesignItemId=ERJ3GEYJ103V New DesignItemId=RES SMD 10K OHM 5% 1/10W 0603 - ERJ3GEYJ103V
+Change Component DesignItemId : Designator=R24 Old DesignItemId=ERJ-2RKF3012X New DesignItemId=RES SMD 30.1K OHM 1% 1/10W 0402 - ERJ-2RKF3012X
+Change Component DesignItemId : Designator=R3 Old DesignItemId=ERJ-3GEYJ102V New DesignItemId=RES SMD 1K OHM 5% 1/10W 0603 - ERJ-3GEYJ102V
+Change Component DesignItemId : Designator=R9 Old DesignItemId=ERJ-3GEYJ102V New DesignItemId=RES SMD 1K OHM 5% 1/10W 0603 - ERJ-3GEYJ102V
+Change Component DesignItemId : Designator=C2 Old DesignItemId=GMK212BJ104KGHT New DesignItemId=CAP CER 22UF 6.3V X5R 0603 - GRM188R60J226MEA0D
+Change Component DesignItemId : Designator=C1 Old DesignItemId=GRM21BC60J226ME15L New DesignItemId=CAP CER 22UF 6.3V X5R 0603 - GRM188R60J226MEA0D
+Change Component DesignItemId : Designator=C3 Old DesignItemId=GRM21BC60J226ME15L New DesignItemId=CAP CER 22UF 6.3V X5R 0603 - GRM188R60J226MEA0D
+Change Component DesignItemId : Designator=C4 Old DesignItemId=GRM21BC60J226ME15L New DesignItemId=CAP CER 22UF 6.3V X5R 0603 - GRM188R60J226MEA0D
+Change Component DesignItemId : Designator=L1 Old DesignItemId=IHLP2525CZER4R7M01 New DesignItemId=IND 4.7UH 5.5A 40 MOHM SMD - IHLP2525CZER4R7M01
+Change Component DesignItemId : Designator=U2 Old DesignItemId=PC817X2NIP0F New DesignItemId=OPTOISOLATOR 5KV TRANS 4SMD - PC817X2NIP0F
+Change Component DesignItemId : Designator=U3 Old DesignItemId=PC817X2NIP0F New DesignItemId=OPTOISOLATOR 5KV TRANS 4SMD - PC817X2NIP0F
+Change Component DesignItemId : Designator=R23 Old DesignItemId=RC0402FR-0793K1L New DesignItemId=RES 93.1K OHM 1% 1/16W 0402 - RC0402FR-0793K1L
+Change Component DesignItemId : Designator=R7 Old DesignItemId=RC0603FR-074K7L New DesignItemId=RES 4.7K OHM 1% 1/10W 0603 - RC0603FR-074K7L
+Change Component DesignItemId : Designator=R8 Old DesignItemId=RC0603FR-074K7L New DesignItemId=RES 4.7K OHM 1% 1/10W 0603 - RC0603FR-074K7L
+Change Component DesignItemId : Designator=R10 Old DesignItemId=RC0603FR-074K7L New DesignItemId=RES 4.7K OHM 1% 1/10W 0603 - RC0603FR-074K7L
+Change Component DesignItemId : Designator=R12 Old DesignItemId=RC0603FR-074K7L New DesignItemId=RES 4.7K OHM 1% 1/10W 0603 - RC0603FR-074K7L
+Change Component DesignItemId : Designator=R19 Old DesignItemId=RC0603FR-074K7L New DesignItemId=RES 4.7K OHM 1% 1/10W 0603 - RC0603FR-074K7L
+Change Component DesignItemId : Designator=R20 Old DesignItemId=RC0603FR-074K7L New DesignItemId=RES 4.7K OHM 1% 1/10W 0603 - RC0603FR-074K7L
+Change Component DesignItemId : Designator=R1 Old DesignItemId=RES SMD 2.2K OHM 5% 1/2W 0805 New DesignItemId=RES SMD 2.2K OHM 5% 1/2W 0805 - ERJ-P06J222V
+Change Component DesignItemId : Designator=R5 Old DesignItemId=RES SMD 2.2K OHM 5% 1/2W 0805 New DesignItemId=RES SMD 2.2K OHM 5% 1/2W 0805 - ERJ-P06J222V
+Change Component DesignItemId : Designator=R14 Old DesignItemId=RES SMD 2.2K OHM 5% 1/2W 0805 New DesignItemId=RES SMD 2.2K OHM 5% 1/2W 0805 - ERJ-P06J222V
+Change Component DesignItemId : Designator=R15 Old DesignItemId=RES SMD 2.2K OHM 5% 1/2W 0805 New DesignItemId=RES SMD 2.2K OHM 5% 1/2W 0805 - ERJ-P06J222V
+Change Component DesignItemId : Designator=R16 Old DesignItemId=RES SMD 2.2K OHM 5% 1/2W 0805 New DesignItemId=RES SMD 2.2K OHM 5% 1/2W 0805 - ERJ-P06J222V
+Change Component DesignItemId : Designator=R17 Old DesignItemId=RES SMD 9.1K OHM 1% 1/10W 0603 New DesignItemId=RES SMD 9.1K OHM 1% 1/10W 0603 - ERJ-3EKF9101V
+Change Component DesignItemId : Designator=R18 Old DesignItemId=RES SMD 9.1K OHM 1% 1/10W 0603 New DesignItemId=RES SMD 9.1K OHM 1% 1/10W 0603 - ERJ-3EKF9101V
+Change Component DesignItemId : Designator=R2 Old DesignItemId=RES SMD 100K OHM 1% 1/10W 0603 New DesignItemId=RES SMD 100K OHM 1% 1/10W 0603 - CRCW0603100KFKEA
+Change Component DesignItemId : Designator=R6 Old DesignItemId=RES SMD 100K OHM 1% 1/10W 0603 New DesignItemId=RES SMD 100K OHM 1% 1/10W 0603 - CRCW0603100KFKEA
+Change Component DesignItemId : Designator=U1 Old DesignItemId=ZC323000 New DesignItemId=MODULE STM32F103C8T6 - ZC323000
+Change Component Footprint: Designator=C12 Old Footprint=C 0402 New Footprint=CAPC1005X55N
+Change Component Footprint: Designator=C5 Old Footprint=C 0603 New Footprint=CAPC1608X95N
+Change Component Footprint: Designator=C6 Old Footprint=C 0603 New Footprint=CAPC1608X95N
+Change Component Footprint: Designator=C7 Old Footprint=C 0603 New Footprint=CAPC1608X95N
+Change Component Footprint: Designator=C8 Old Footprint=C 0603 New Footprint=CAPC1608X95N
+Change Component Footprint: Designator=C15 Old Footprint=C 0603 New Footprint=CAPC1608X95N
+Change Component Footprint: Designator=C9 Old Footprint=CAPC1608X95N New Footprint=C 0603
+Change Component Footprint: Designator=C11 Old Footprint=CAPC1608X95N New Footprint=C 0603
+Change Component Footprint: Designator=C2 Old Footprint=CAPC2012X135N New Footprint=C 0603
+Change Component Footprint: Designator=C1 Old Footprint=CAPC2012X145N New Footprint=C 0603
+Change Component Footprint: Designator=C3 Old Footprint=CAPC2012X145N New Footprint=C 0603
+Change Component Footprint: Designator=C4 Old Footprint=CAPC2012X145N New Footprint=C 0603
+Change Component Footprint: Designator=R6 Old Footprint=RESC1607X60N New Footprint=Res 0603
+Change Component Footprint: Designator=R7 Old Footprint=RESC1607X60N New Footprint=Res 0603
+Change Component Footprint: Designator=R8 Old Footprint=RESC1607X60N New Footprint=Res 0603
+Change Component Footprint: Designator=R10 Old Footprint=RESC1607X60N New Footprint=Res 0603
+Change Component Footprint: Designator=R12 Old Footprint=RESC1607X60N New Footprint=Res 0603
+Change Component Footprint: Designator=R19 Old Footprint=RESC1607X60N New Footprint=Res 0603
+Change Component Footprint: Designator=R20 Old Footprint=RESC1607X60N New Footprint=Res 0603
+Change Component Comment : Designator=U4 Old Comment=AP63300WU-7 New Comment=IC REG BUCK ADJUSTABLE 2A TSOT26 - AP63300WU-7
+Change Component Comment : Designator=Q1 Old Comment=BCW66GLT1G New Comment=TRANS NPN 45V 0.8A SOT23-3 - BCW66GLT1G
+Change Component Comment : Designator=Q2 Old Comment=BCW66GLT1G New Comment=TRANS NPN 45V 0.8A SOT23-3 - BCW66GLT1G
+Change Component Comment : Designator=U2 Old Comment=PC817X2NIP0F New Comment=OPTOISOLATOR 5KV TRANS 4SMD - PC817X2NIP0F
+Change Component Comment : Designator=U3 Old Comment=PC817X2NIP0F New Comment=OPTOISOLATOR 5KV TRANS 4SMD - PC817X2NIP0F
+Change Component Comment : Designator=U1 Old Comment=ZC323000 New Comment=MODULE STM32F103C8T6 - ZC323000
+Change Component Description : Designator=R7 Old Description=4.7 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 _1608 Metric_ Moisture Resistant Thick Film New Description=RES 4.7K OHM 1% 1/10W 0603
+Change Component Description : Designator=R8 Old Description=4.7 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 _1608 Metric_ Moisture Resistant Thick Film New Description=RES 4.7K OHM 1% 1/10W 0603
+Change Component Description : Designator=R10 Old Description=4.7 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 _1608 Metric_ Moisture Resistant Thick Film New Description=RES 4.7K OHM 1% 1/10W 0603
+Change Component Description : Designator=R12 Old Description=4.7 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 _1608 Metric_ Moisture Resistant Thick Film New Description=RES 4.7K OHM 1% 1/10W 0603
+Change Component Description : Designator=R19 Old Description=4.7 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 _1608 Metric_ Moisture Resistant Thick Film New Description=RES 4.7K OHM 1% 1/10W 0603
+Change Component Description : Designator=R20 Old Description=4.7 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 _1608 Metric_ Moisture Resistant Thick Film New Description=RES 4.7K OHM 1% 1/10W 0603
+Change Component Description : Designator=D1 Old Description=BAT54 Series 0.8 V 200 mA 30 V Max Reverse Voltage Schottky Diode - SOT-23-3 New Description=DIODE SCHOTTKY 30V 150MA SOT23
+Change Component Description : Designator=D2 Old Description=BAT54 Series 0.8 V 200 mA 30 V Max Reverse Voltage Schottky Diode - SOT-23-3 New Description=DIODE SCHOTTKY 30V 150MA SOT23
+Change Component Description : Designator=D3 Old Description=BAT54 Series 0.8 V 200 mA 30 V Max Reverse Voltage Schottky Diode - SOT-23-3 New Description=DIODE SCHOTTKY 30V 150MA SOT23
+Change Component Description : Designator=D4 Old Description=BAT54 Series 0.8 V 200 mA 30 V Max Reverse Voltage Schottky Diode - SOT-23-3 New Description=DIODE SCHOTTKY 30V 150MA SOT23
+Change Component Description : Designator=U4 Old Description=Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A SOT-23-6 Thin, TSOT-23-6 New Description=IC REG BUCK ADJUSTABLE 2A TSOT26
+Change Component Description : Designator=C5 Old Description=CAP CER 0.1UF 10V X7R 0603 New Description=Multilayer Ceramic Capacitors MLCC - SMD/SMT
+Change Component Description : Designator=C6 Old Description=CAP CER 0.1UF 10V X7R 0603 New Description=Multilayer Ceramic Capacitors MLCC - SMD/SMT
+Change Component Description : Designator=C7 Old Description=CAP CER 0.1UF 10V X7R 0603 New Description=Multilayer Ceramic Capacitors MLCC - SMD/SMT
+Change Component Description : Designator=C8 Old Description=CAP CER 0.1UF 10V X7R 0603 New Description=Multilayer Ceramic Capacitors MLCC - SMD/SMT
+Change Component Description : Designator=C15 Old Description=CAP CER 0.1UF 10V X7R 0603 New Description=Multilayer Ceramic Capacitors MLCC - SMD/SMT
+Change Component Description : Designator=C2 Old Description=CERAMIC CAPACITORS  [MLCC (High dielectric type) for Automotive (BODY & CHASSIS, INFOTAINMENT) Applications]  Multilayer Ceramic Capacitors MLCC - SMD/SMT 0.1uF 35V X5R +/-10% 0805 AEC-Q200 New Description=CAP CER 22UF 6.3V X5R 0603
+Change Component Description : Designator=L1 Old Description=Inductor IHLP SMD 2525 4.7uH Vishay IHLP2525CZ-01 Series Shielded Wire-wound SMD Inductor 4.7 uH +/-20% 5.5A Idc New Description=FIXED IND 4.7UH 5.5A 40 MOHM SMD
+Change Component Description : Designator=C9 Old Description=Multilayer Ceramic Capacitors MLCC - SMD/SMT New Description=CAP CER 0.1UF 50V X7R 0603
+Change Component Description : Designator=C11 Old Description=Multilayer Ceramic Capacitors MLCC - SMD/SMT New Description=CAP CER 0.1UF 50V X7R 0603
+Change Component Description : Designator=C1 Old Description=Multilayer Ceramic Capacitors MLCC - SMD/SMT SUGGESTED SMALLER ALTERNATIVE GRM188R60J226MEA0D New Description=CAP CER 22UF 6.3V X5R 0603
+Change Component Description : Designator=C3 Old Description=Multilayer Ceramic Capacitors MLCC - SMD/SMT SUGGESTED SMALLER ALTERNATIVE GRM188R60J226MEA0D New Description=CAP CER 22UF 6.3V X5R 0603
+Change Component Description : Designator=C4 Old Description=Multilayer Ceramic Capacitors MLCC - SMD/SMT SUGGESTED SMALLER ALTERNATIVE GRM188R60J226MEA0D New Description=CAP CER 22UF 6.3V X5R 0603
+Change Component Description : Designator=Q1 Old Description=NPN Bipolar Transistor New Description=TRANS NPN 45V 0.8A SOT23-3
+Change Component Description : Designator=Q2 Old Description=NPN Bipolar Transistor New Description=TRANS NPN 45V 0.8A SOT23-3
+Change Component Description : Designator=R21 Old Description=Panasonic ERJ2RK Series Thick Film Surface Mount Fixed Resistor 0402 Case +/-1% 0.1W +/-100ppm/C New Description=RES SMD 100K OHM 1% 1/10W 0402
+Change Component Description : Designator=R22 Old Description=Panasonic ERJ2RK Series Thick Film Surface Mount Fixed Resistor 0402 Case +/-1% 0.1W +/-100ppm/C New Description=RES SMD 100K OHM 1% 1/10W 0402
+Change Component Description : Designator=R24 Old Description=Panasonic Surface Mount Fixed Resistor 30.1 k 0.1 W +/-100 ppm/C New Description=RES SMD 30.1K OHM 1% 1/10W 0402
+Change Component Description : Designator=U1 Old Description=STM32F103C8T6 ARM STM32 Minimum System Development Board Module For Arduino New Description=MODULE STM32F103C8T6
+Change Component Description : Designator=R23 Old Description=Thick Film Resistors 93.1K OHM 1% New Description=RES 93.1K OHM 1% 1/16W 0402
+Change Component Description : Designator=R3 Old Description=Thick Film Resistors - SMD 0603 1Kohms 5% AEC-Q200 New Description=RES SMD 1K OHM 5% 1/10W 0603
+Change Component Description : Designator=R9 Old Description=Thick Film Resistors - SMD 0603 1Kohms 5% AEC-Q200 New Description=RES SMD 1K OHM 5% 1/10W 0603
+Change Component Description : Designator=R4 Old Description=Thick Film Resistors - SMD 0603 10Kohms 5% AEC-Q200 New Description=RES SMD 10K OHM 5% 1/10W 0603
+Change Component Description : Designator=R11 Old Description=Thick Film Resistors - SMD 0603 10Kohms 5% AEC-Q200 New Description=RES SMD 10K OHM 5% 1/10W 0603
+Change Component Library : Designator=C2 Old Library=CAP_CER_0.1uF_35V_0805.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=C1 Old Library=CAP_CER_22uF_6.3V_0603.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=C3 Old Library=CAP_CER_22uF_6.3V_0603.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=C4 Old Library=CAP_CER_22uF_6.3V_0603.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=D1 Old Library=DIODE_Schottky_BAT54S.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=D2 Old Library=DIODE_Schottky_BAT54S.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=D3 Old Library=DIODE_Schottky_BAT54S.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=D4 Old Library=DIODE_Schottky_BAT54S.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=L1 Old Library=IND_4.7uF_5.5A_40ohm.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=U2 Old Library=OPTO_PC817X2NIP0F.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=U3 Old Library=OPTO_PC817X2NIP0F.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=R3 Old Library=RES_1k_5%_0.1W_0603.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=R9 Old Library=RES_1k_5%_0.1W_0603.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=R6 Old Library=RES_4.7K OHM_1%.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=R7 Old Library=RES_4.7K OHM_1%.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=R8 Old Library=RES_4.7K OHM_1%.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=R10 Old Library=RES_4.7K OHM_1%.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=R12 Old Library=RES_4.7K OHM_1%.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=R19 Old Library=RES_4.7K OHM_1%.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=R20 Old Library=RES_4.7K OHM_1%.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=R4 Old Library=RES_10k_5%_0.1W_0603.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=R11 Old Library=RES_10k_5%_0.1W_0603.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=R24 Old Library=RES_30.1k_0402.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=R23 Old Library=RES_93.1k_0.0625W_0402.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=R21 Old Library=RES_100k_0.1W_0402.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=R22 Old Library=RES_100k_0.1W_0402.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=U1 Old Library=STM32F103C8T6_BluePill.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=Q1 Old Library=TRANS NPN 45V 800MA SOT-23.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=Q2 Old Library=TRANS NPN 45V 800MA SOT-23.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change Component Library : Designator=U4 Old Library=VOLT_REGULATOR_AP63300WU-7.SchLib New Library=LAB_COATING COF_MACHINE.SCHLIB
+Change component parameters (AddParameter): Name = ""; Value = "0.1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/13ba/0900766b813ba21b.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ2RKF1003X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "0.1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/13ba/0900766b813ba21b.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ2RKF1003X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = ""; Value = "0.1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/13ba/0900766b813ba21b.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ2RKF1003X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "0.1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/13ba/0900766b813ba21b.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ2RKF1003X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CRCW0603100KFKEA"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CRCW0603100KFKEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = ""; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://api.kemet.com/component-edge/download/specsheet/C0603C104K8RACTU.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603C104K8RACTU/1K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://api.kemet.com/component-edge/download/specsheet/C0603C104K8RACTU.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603C104K8RACTU/1K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = ""; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://api.kemet.com/component-edge/download/specsheet/C0603C104K8RACTU.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603C104K8RACTU/1K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://api.kemet.com/component-edge/download/specsheet/C0603C104K8RACTU.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603C104K8RACTU/1K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = ""; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://api.kemet.com/component-edge/download/specsheet/C0603C104K8RACTU.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603C104K8RACTU/1K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://api.kemet.com/component-edge/download/specsheet/C0603C104K8RACTU.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603C104K8RACTU/1K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = ""; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://api.kemet.com/component-edge/download/specsheet/C0603C104K8RACTU.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603C104K8RACTU/1K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://api.kemet.com/component-edge/download/specsheet/C0603C104K8RACTU.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603C104K8RACTU/1K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = ""; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CC0402JRNPO9BN560"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cc0402jrnpo9bn560/yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GP_NP0_16V-to-50V_18.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0402JRNPO9BN560"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CC0402JRNPO9BN560"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cc0402jrnpo9bn560/yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GP_NP0_16V-to-50V_18.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0402JRNPO9BN560"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = ""; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://api.kemet.com/component-edge/download/specsheet/C0603C104K8RACTU.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603C104K8RACTU/1K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://api.kemet.com/component-edge/download/specsheet/C0603C104K8RACTU.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603C104K8RACTU/1K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = ""; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog"; Value = "GRM188R60J226MEA0D"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog"; Value = "GRM188R60J226MEA0D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = ""; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog"; Value = "GRM188R60J226MEA0D"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog"; Value = "GRM188R60J226MEA0D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = ""; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog"; Value = "GRM188R60J226MEA0D"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog"; Value = "GRM188R60J226MEA0D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = ""; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog"; Value = "GRM188R60J226MEA0D"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog"; Value = "GRM188R60J226MEA0D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = ""; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog"; Value = "ESD35C104K4T2A-24"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog"; Value = "ESD35C104K4T2A-24"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = ""; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog"; Value = "ESD35C104K4T2A-24"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Catalog"; Value = "ESD35C104K4T2A-24"; VariantName = "[No Variations]"

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=U Old Footprint=SOT95P237X111-3N New Footprint=SOT95P280X100-6N
+Added Pin To Net: NetName=GND Pin=U-4
+Added Pin To Net: NetName=NetC?_2 Pin=U-5
+Added Pin To Net: NetName=NetC?_1 Pin=U-6

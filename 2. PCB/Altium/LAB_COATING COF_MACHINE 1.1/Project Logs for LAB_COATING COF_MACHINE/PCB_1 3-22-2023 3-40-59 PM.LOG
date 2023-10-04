@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-39
+Added Room: Name=Sche_MCU_IO
+Added Room: Name=Sche_PheriperalSchDoc
+Added Room: Name=Sche_Voltage regulator

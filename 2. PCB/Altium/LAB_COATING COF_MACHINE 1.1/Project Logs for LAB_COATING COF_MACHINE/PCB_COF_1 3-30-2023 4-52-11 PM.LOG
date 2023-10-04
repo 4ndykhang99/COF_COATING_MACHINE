@@ -1,0 +1,48 @@
+Change Component Footprint: Designator=R2 Old Footprint=ERJ2RKD1004X New Footprint=Res 0603
+Change Component Footprint: Designator=R6 Old Footprint=ERJ2RKD1004X New Footprint=RESC1607X60N
+Change Component Footprint: Designator=R1 Old Footprint=ERJP06D1000V New Footprint=RES 0805
+Change Component Footprint: Designator=R5 Old Footprint=ERJP06D1000V New Footprint=RES 0805
+Change Component Footprint: Designator=R13 Old Footprint=ERJP06D1000V New Footprint=RES 0805
+Change Component Footprint: Designator=R14 Old Footprint=ERJP06D1000V New Footprint=RES 0805
+Change Component Footprint: Designator=R15 Old Footprint=ERJP06D1000V New Footprint=RES 0805
+Change Component Footprint: Designator=R16 Old Footprint=ERJP06D1000V New Footprint=RES 0805
+Change component parameters (AddParameter): Name = "MF"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ-P06J222V"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ-P06J222V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ-P06J222V"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ-P06J222V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ-P06J222V"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ-P06J222V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ-P06J222V"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ-P06J222V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ-P06J222V"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ-P06J222V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ-P06J222V"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ERJ-P06J222V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
