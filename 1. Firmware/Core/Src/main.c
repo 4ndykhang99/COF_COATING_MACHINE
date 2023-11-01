@@ -1050,9 +1050,7 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 		button_F = 0;
 		FWD_Running = 0;
 		BWD_Running = 0;
-//		HAL_TIM_PWM_Stop(&htim3,TIM_CHANNEL_3);
-//		FLASH_WritePage(FLASH_CW_start_addr,FLASH_CW_end_addr,CW_limit);
-//		FLASH_WritePage(FLASH_CCW_start_addr,FLASH_CCW_end_addr,CCW_limit);
+
 		previousMillis = currentMillis;
 	}
 	else if (GPIO_Pin == GPIO_PIN_2 && (currentMillis - previousMillis > 200)) // Menu
@@ -1063,8 +1061,7 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 		button_D = 1;
 		button_E = 0;
 		button_F = 0;
-//		FLASH_WritePage(FLASH_CW_start_addr,FLASH_CW_end_addr,CW_limit);
-//		FLASH_WritePage(FLASH_CCW_start_addr,FLASH_CCW_end_addr,CCW_limit);
+
 		previousMillis = currentMillis;
 
 	}
@@ -1073,14 +1070,16 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 	{ 
 		if(!HAL_GPIO_ReadPin(GPIOA,GPIO_PIN_6))
 		{			
+			button_A = 0;
 			button_B = 0;
 			FWD_Running = 0;
 			CW_COF = 1;
 			CW_limit = 1;			
 			button_C = 0;
-//	button_D = 0;
+			button_D = 0;
 			button_E = 1;
-//	button_F = 0;
+			button_F = 0;
+			
 			
 		
 //		FLASH_WritePage(FLASH_CCW_start_addr,FLASH_CCW_end_addr,button_E);
@@ -1102,15 +1101,15 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 	{
 		if(!HAL_GPIO_ReadPin(GPIOA,GPIO_PIN_7))
 		{
-//			Deceleration_Limit(Accel_Speed);
-//			HAL_TIM_PWM_Stop(&htim3,TIM_CHANNEL_3);
+
 			button_A = 0;
+			button_B = 0;
 			BWD_Running = 0;
 			CCW_limit = 1;
 			
 			button_C = 0;
-//		button_D = 0;
-//		button_E = 0;
+			button_D = 0;
+			button_E = 0;
 			button_F = 1;
 			
 
@@ -1125,18 +1124,6 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 		}
 				
 	}
-//	 else if(GPIO_Pin == GPIO_PIN_4)
-//		 { //check interrupt for specific pin              
-//        if(!HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_4))
-//					{
-//           
-//					}
-//        
-//        if(!HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_4))
-//					{
-//            
-//					}
-//			}
 }
 void Run_Coating()
 {
@@ -1246,6 +1233,7 @@ void Run_COF()
 	__HAL_TIM_SET_COMPARE(&htim3,TIM_CHANNEL_3,COFPeriod/2);
 	__HAL_TIM_SET_AUTORELOAD(&htim3,COFPeriod);
 	HAL_TIM_PWM_Start(&htim3, TIM_CHANNEL_3);
+	
 }
 
 void SetHome()
@@ -1424,6 +1412,7 @@ void Menu_handler()
 				if(!Stop_State)
 				{
 					Deceleration(Accel_Speed);
+					HAL_TIM_PWM_Stop(&htim3,TIM_CHANNEL_3);
 				}
 				HAL_GPIO_WritePin(GPIOB,GPIO_PIN_1, GPIO_PIN_RESET);
 //				FWD_Running = 0;
@@ -1486,7 +1475,7 @@ void Menu_handler()
 				HAL_TIM_PWM_Stop(&htim3,TIM_CHANNEL_3);
 				FWD_Running = 0;
 				CW_limit = 1;
-//				button_A = 0;
+				button_A = 0;
 				button_B = 0; 
 				button_C = 0;
 				button_D = 0;
@@ -1499,7 +1488,7 @@ void Menu_handler()
 				while (button_E)
 				{
 					FWD_Running = 0;
-					delay_us(50);
+					HAL_Delay(1);
 				}					
 			}
 			else if (button_F)
@@ -1509,7 +1498,7 @@ void Menu_handler()
 				BWD_Running = 0;
 				CCW_limit = 1;
 				button_A = 0;
-//				button_B = 0; 
+				button_B = 0; 
 				button_C = 0;
 				button_D = 0;
 				button_E = 0;
@@ -1521,7 +1510,7 @@ void Menu_handler()
 				while (button_F)
 				{
 					BWD_Running = 0;
-					delay_us(50);
+					HAL_Delay(1);
 				}					
 			}
 		}
@@ -1683,6 +1672,7 @@ void Menu_handler()
 						SendData(); // Reset incoming RX value in the buffer
 						HAL_GPIO_WritePin(GPIOB,GPIO_PIN_1, GPIO_PIN_SET);
 						Run_COF();
+						Stop_State = 0;
 						HAL_UART_Receive_IT(&huart1, RxData, 7);			// 8 bit -1 because stop bit auto add into serial data													
 						while(!CW_COF)
 							{
@@ -1745,7 +1735,8 @@ void Menu_handler()
 							if(CW_limit) 
 							{
 								CW_COF = 1;
-								HAL_TIM_PWM_Stop(&htim3,TIM_CHANNEL_3);			
+								HAL_TIM_PWM_Stop(&htim3,TIM_CHANNEL_3);		
+								Stop_State = 1;
 								SSD1306_Clear();
 								COF_Result();
 								resetbutton();	
@@ -1754,6 +1745,7 @@ void Menu_handler()
 							{
 								CW_COF = 0;																																
 								HAL_TIM_PWM_Stop(&htim3,TIM_CHANNEL_3);
+								Stop_State = 1;
 								SSD1306_Clear();
 								COF_Result();
 								resetbutton();
